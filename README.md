@@ -55,7 +55,7 @@ Creators whose content is primarily about Databricks. Minimum 5K followers, acti
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | Derar Alhussein                      | [LinkedIn](https://www.linkedin.com/in/deraralhussein/)                                                            | 39K LI, 100K+ students | 10x Databricks Certified, Databricks MVP, O'Reilly author                                                                       |
 | Ansh Lamba                           | [YouTube](https://www.youtube.com/@AnshLambaJSR)                                                                   | 107K YT                | PySpark Full Course (882K views) and Databricks Masterclass (585K views). Highest view counts for Databricks content on YouTube |
-| Jakub Lasak (DataEngineer.wiki)      | [LinkedIn](https://www.linkedin.com/in/jrlasak/), [Podcast](https://dataengineer.wiki/podcast)                     | 14K LI                 | Databricks career advancement, interview prep, hands-on labs, production patterns                                               |
+| Jakub Lasak (DataEngineer.wiki)      | [LinkedIn](https://www.linkedin.com/in/jrlasak/), [Podcast](https://dataengineer.wiki/podcast?utm_source=github&utm_medium=readme&utm_campaign=awesome-databricks)                     | 14K LI                 | Databricks career advancement, interview prep, hands-on labs, production patterns                                               |
 | Matei Zaharia                        | [LinkedIn](https://www.linkedin.com/in/mateizaharia/)                                                              | 170K LI                | CTO & Cofounder of Databricks, CS Professor at Berkeley. Created Apache Spark, co-created Delta Lake, MLflow                    |
 | Reynold Xin                          | [LinkedIn](https://www.linkedin.com/in/rxin/)                                                                      | 35K LI                 | Cofounder of Databricks. Posts on Lakebase, Lakewatch, platform architecture                                                    |
 | Subham Khandelwal (Ease with Data)   | [LinkedIn](https://www.linkedin.com/in/subhamkharwal/), [YouTube](https://www.youtube.com/@easewithdata)           | 23K LI, 51K YT         | PySpark Zero to Hero, Databricks Zero to Hero. Solutions Architect at Databricks                                                |
@@ -168,7 +168,7 @@ Student counts and ratings as of April 2026.
 
 - [The Databricks 100](https://github.com/jrlasak/databricks-100) - 100 must-know Databricks concepts for data engineers. 10 categories x 10 concepts with difficulty ratings, certification mapping, and a 100-day challenge.
 - [DataDojo](https://dojo.dataengineer.wiki) - Daily Databricks practice exercises. 633+ questions across 7 categories with streaks.
-- [Senior Databricks Data Engineer Interview Cheat sheet](https://dataengineer.wiki/products/interview-kit-senior) - 86-entry interview cheat sheet for Databricks DE interviews.
+- [Senior Databricks Data Engineer Interview Cheat sheet](https://dataengineer.wiki/products/interview-kit-senior?utm_source=github&utm_medium=readme&utm_campaign=awesome-databricks) - 86-entry interview cheat sheet for Databricks DE interviews.
 - [Databricks Academy Practice Exams](https://customer-academy.databricks.com/learn) - Official practice questions for certification prep. Free for Databricks customers.
 
 ### Books
@@ -237,7 +237,7 @@ Student counts and ratings as of April 2026.
 - [Data Engineering Central Podcast](https://podcasts.apple.com/us/podcast/data-engineering-central-podcast/id1778516563) - Practical DE: news, opinions, career advice. By Daniel Beach.
 - [The Data Engineering Show](https://podcasts.apple.com/us/podcast/the-data-engineering-show/id1561927688) - Interviews with data leaders on real-world challenges.
 - [Data Engineering Weekly (Audio)](https://podcasts.apple.com/us/podcast/data-engineering-weekly/id1610960581) - Newsletter companion audio. By Ananth Packkildurai.
-- [DataEngineer.wiki Podcast](https://dataengineer.wiki/podcast) - Databricks career advancement, technical deep-dives, interview prep.
+- [DataEngineer.wiki Podcast](https://dataengineer.wiki/podcast?utm_source=github&utm_medium=readme&utm_campaign=awesome-databricks) - Databricks career advancement, technical deep-dives, interview prep.
 - [Plumbers of Data Science](https://podcasts.apple.com/us/podcast/plumbers-of-data-science/id1318730571) - DE trends, tools, community interviews. By Simon Spati.
 
 ### YouTube Channels
