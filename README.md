@@ -300,7 +300,7 @@ The open-source projects that power the Databricks platform.
 - [soda-core](https://github.com/sodadata/soda-core) - Define data quality checks in YAML, run against your tables. 2.3K stars.
 - [dbt-databricks](https://github.com/databricks/dbt-databricks) - Official dbt adapter. SQL and Python models on Databricks. 341 stars.
 
-### Cost Management & FinOps
+### Cost Management
 
 - [FinOpsWay](https://finopsway.com/) - Free browser extension (Chrome, Edge, Firefox) that shows Databricks costs next to jobs, clusters, and pipelines in the workspace UI. Supports AWS and Azure. 190+ users. By Ilya Aniskovets & Maksim Pachkouski.
 
